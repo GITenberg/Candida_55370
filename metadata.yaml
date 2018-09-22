@@ -1,5 +1,5 @@
 _repo: Candida_55370
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Krohn, Helmi
@@ -11,6 +11,9 @@ contributor:
     deathdate: 1967
     gutenberg_agent_id: '31724'
     url: http://www.gutenberg.org/2009/agents/31724
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Shaw, Bernard
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/467
     wikipedia: http://en.wikipedia.org/wiki/George_Bernard_Shaw
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55370#Candida
 gutenberg_issued: '2017-08-16'
 gutenberg_type: Text
 identifiers:
